@@ -1,0 +1,48 @@
+{
+    "displayname": "Method 2 - Does not work",
+    "otherproperty": "Here is another property",
+    "results": [
+        {
+            "label": "TV",
+            "icon": "fa-check",
+            "items": [
+                [
+                    {
+                        "label": "TV 1",
+                        "items": [
+                            {
+                                "label": "TV 1.1",
+                                "command": "(event: any) => {this.menuClick(event)}"
+                            },
+                            {
+                                "label": "TV 1.2",
+                                "command": "(event: any) => {this.menuClick(event)}"
+                            },
+                            {
+                                "label": "TV 1.3",
+                                "command": "(event: any) => {this.menuClick(event)}"
+                            }
+                        ]
+                    },
+                    {
+                        "label": "TV 2",
+                        "items": [
+                            {
+                                "label": "TV 2.1",
+                                "command": "(event: any) => {this.menuClick(event)}"
+                            },
+                            {
+                                "label": "TV 2.2",
+                                "command": "(event: any) => {this.menuClick(event)}"
+                            },
+                            {
+                                "label": "TV 2.3",
+                                "command": "(event: any) => {this.menuClick(event)}"
+                            }
+                        ]
+                    }
+                ]
+            ]
+        }
+    ]
+}
